@@ -7,5 +7,9 @@
 - コミットログの書き方
 
 ## コマンドの種類
+### ファイルをインデックスに登録する
 - git add README.md
+### コミットメッセージをつけてコミットする
 - git commit -m "first commit"
+### リモートリポジトリにファイルをプッシュする
+- git push -u origin master
