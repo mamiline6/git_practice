@@ -14,3 +14,6 @@
 - git commit -m "first commit"
 ### リモートリポジトリにファイルをプッシュする
 - git push -u origin master
+
+### VS Code の Git
+- かなり前、急ぎ対応が必要なとき、この操作の画面に慣れずに急ぎいつもの SourceTree で対応し続けてたので、すっかり存在を忘れていた機能。
